@@ -32,3 +32,7 @@ en rupture de stock
 – Un Treemap : pour représenter tous les articles.
 5. Enregistrer le rapport et le publier.
 6. Générer un tableau de bord à partir le rapport publié.
+
+
+Analyse des ensembles de données des Jeux olympiques dans Power BI :
+Voir le resultats ici :![image](https://user-images.githubusercontent.com/90092910/210092560-ee8c9e0e-aad1-4f70-80bf-1544c7e6a7ed.png)
