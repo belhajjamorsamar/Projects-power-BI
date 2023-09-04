@@ -1,38 +1,35 @@
-# Projects-power-BI
+# Power BI Projects
 
+## POWER BI
 
-POWER BI : Power BI est un outil de visualisation, développée par Microsoft, qui permet aux entreprise d’analyser
-les données provenant de sources multiples et de créer des rapports pour aboutir à une visualisation
-lisible.
+**POWER BI** is a visualization tool developed by Microsoft, allowing businesses to analyze data from various sources and create reports to generate clear visualizations.
 
-RÉCUPÉRATION WEB VIA POWER BI :
-1. Aller sur l’adresse web : https://fr.wikipedia.org/wiki/Population_mondiale
-2. Extraire les données relatives à l’Estimation la répartition de la population mondiale par
-continent pour l’année 2022
-3. Afficher les continents dont la population excède 1000
-4. Générer un graphique à secteurs qui donne la répartition de la population par continent
-5. Enregistrer le rapport et le publier
+## Web Scraping via Power BI
 
+1. Visit the website: https://en.wikipedia.org/wiki/World_population.
+2. Extract data related to the Estimated distribution of the world population by continent for the year 2022.
+3. Display continents with a population exceeding 1000.
+4. Generate a pie chart illustrating the population distribution by continent.
+5. Save and publish the report.
 
+## Part 1: Web Scraping from a Web Page Without HTML Tables
 
+1. Visit the website: https://www.scoop.com.tn/2068-consoles-et-jeux.
+2. Extract data relevant for reporting purposes and transform the data using Power Query.
+3. Apply the following transformations to the retrieved data:
+   - Rename the table.
+   - Remove obsolete columns.
+   - Rename columns.
+   - Rearrange columns.
+   - Add an "Index" column.
+4. Create a report consisting of two charts:
+   - A pie chart representing the percentage of available articles and those that are out of stock.
+   - A Treemap representing all articles.
+5. Save and publish the report.
+6. Generate a dashboard from the published report.
 
-PARTIE 1: WEB SCRAPING À PARTIR D’UNE PAGE WEB NE CONTENANT PAS DES TABLEAUX HTML
-1. Aller sur l’adresse web : https://www.scoop.com.tn/2068-consoles-et-jeux
-2. Extraire les données qui répondent à les besoin de reporting, puis transformer les données dans
-l’outil Power Query,
-3. Appliquer les transformations suivants sur les données récupérés:
-– Renommer la table
-– Supprimer les colonnes obsolètes
-– Renommer les colonnes
-– Ré-arranger les colonnes
-– Ajouter une colonne « Index »
-4. Établir un rapport constitué de deux graphiques :
-– un graphique en secteurs pour représenter en pourcentage les articles disponibles et ceux qui sont
-en rupture de stock
-– Un Treemap : pour représenter tous les articles.
-5. Enregistrer le rapport et le publier.
-6. Générer un tableau de bord à partir le rapport publié.
+## Analysis of Olympic Games Datasets in Power BI
 
+![Results](https://user-images.githubusercontent.com/90092910/210092560-ee8c9e0e-aad1-4f70-80bf-1544c7e6a7ed.png)
 
-Analyse des ensembles de données des Jeux olympiques dans Power BI :
-Voir le resultats ici :![image](https://user-images.githubusercontent.com/90092910/210092560-ee8c9e0e-aad1-4f70-80bf-1544c7e6a7ed.png)
+This README provides an overview of the Power BI projects, their objectives, and the steps involved in each project. Each project aims to showcase the capabilities of Power BI for data analysis and visualization.
